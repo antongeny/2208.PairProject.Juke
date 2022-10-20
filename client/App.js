@@ -1,7 +1,7 @@
 import React from "react";
 
 const App = () => {
-	return <div>HELLO WORLD</div>;
+	return <div className="row container">{/* The music starts here! */}</div>;
 };
 
 export default App;
